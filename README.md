@@ -1,6 +1,4 @@
-- 👋 Hi, I’m jay
-- 👀 I’m interested in LUA/JS
-- 🌱 I’m currently learning LUA
+skidder
 
 <!---
 ricefarmer999/ricefarmer999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
